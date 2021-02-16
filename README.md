@@ -1,0 +1,2 @@
+# ReduccDimensiones
+ reducción de dimensiones
